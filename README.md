@@ -6,3 +6,5 @@ To run on replit, log in (or sign up), then fork and run the project on replit. 
 
 Alternatively, you can download all the files, and then upload and run it on a server.
 [There's also a bunch of other small projects and tests on my old replit] 
+
+Files found in 'images/bgImages' are from Arknights (Made by Hypergryph)
